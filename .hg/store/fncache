@@ -1,0 +1,329 @@
+data/wpf-notifyicon/WindowsFormsSample/Form1.Designer.cs.i
+data/wpf-notifyicon/Sample Project/Commands/CommandBase.cs.i
+data/F4ToPokeys/bin/Debug/PoKeysDevice_DLL.dll.i
+data/F4ToPokeys/Translations/Main.fr.resx.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Release/Hardcodet.Wpf.TaskbarNotification.Properties.Resources.resources.i
+data/F4ToPokeys/Properties/AssemblyInfo.cs.i
+data/F4ToPokeys/PololuMaestroPoint.cs.i
+data/F4ToPokeys/Configuration.cs.i
+data/F4ToPokeys/PololuMaestroServo.cs.i
+data/wpf-notifyicon/WindowsFormsSample/Properties/Settings.Designer.cs.i
+data/wpf-notifyicon/Sample Project/Tutorials/02 - ToolTips/UserControlToolTipWindow.xaml.i
+data/F4ToPokeys/Configuration.xaml.cs.i
+data/F4ToPokeys/Properties/Resources.resx.i
+data/lightningstools/SimplifiedCommon/bin/Release/SimplifiedCommon.pdb.i
+data/.vs/F4ToPokeys/v15/Server/sqlite3/db.lock.i
+data/lightningstools/F4SharedMem/Headers/RadioClientControl.cs.i
+data/wpf-notifyicon/Sample Project/Tutorials/04 - ContextMenus/InlineContextMenuWindow.xaml.cs.i
+data/wpf-notifyicon/Sample Project/Tutorials/05 - Balloons/BalloonSampleWindow.xaml.i
+data/lightningstools/F4SharedMem/obj/x86/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs.i
+data/lightningstools/F4SharedMem/Headers/LightBits3.cs.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/IconState.cs.i
+data/F4ToPokeys/bin/Release/SimplifiedCommon.pdb.i
+data/wpf-notifyicon/NotifyIconWpf.sln.i
+data/F4ToPokeys/ConfigurationDialog.xaml.i
+data/lightningstools/SimplifiedCommon/obj/Debug/SimplifiedCommon.pdb.i
+data/F4ToPokeys/Configuration.xaml.i
+data/wpf-notifyicon/Sample Project/Images/Close.png.i
+data/F4ToPokeys/SevenSegmentDisplay.cs.i
+data/lightningstools/SimplifiedCommon/obj/Debug/DesignTimeResolveAssemblyReferences.cache.i
+data/lightningstools/F4SharedMem/Headers/HsiBits.cs.i
+data/F4ToPokeys/bin/Debug/F4ToPokeys.exe.d
+data/F4ToPokeys/FalconConnector.cs.orig.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/MouseEvent.cs.i
+data/F4ToPokeys/bin/Debug/F4ToPokeys.exe.i
+data/F4ToPokeys/ConfigurationViewModel.cs.i
+data/wpf-notifyicon/NotifyIconWpf/Diagrams/TaskbarIcon Overview.cd.i
+data/F4ToPokeys/bin/Release/SimplifiedCommon.dll.i
+data/wpf-notifyicon/Sample Project/Icons/Inactive.ico.i
+data/F4ToPokeys/bin/Release/Hardcodet.Wpf.TaskbarNotification.dll.i
+data/wpf-notifyicon/Sample Project/Tutorials/02 - ToolTips/SimpleUserControl.xaml.i
+data/wpf-notifyicon/WindowsFormsSample/WindowsFormsSample.csproj.i
+data/F4ToPokeys/PololuMaestroEnumerator.cs.i
+data/lightningstools/F4SharedMem/Headers/FlightData2.cs.i
+data/F4ToPokeys/erreur.design.i
+data/wpf-notifyicon/Sample Project/Main.xaml.i
+data/wpf-notifyicon/Sample Project/Tutorials/07 - Events/EventVisualizerWindow.xaml.cs.i
+data/lightningstools/F4SharedMem/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs.i
+data/lightningstools/F4SharedMem.dll.i
+data/lightningstools/F4SharedMem/obj/x86/Debug/F4SharedMem.csproj.CoreCompileInputs.cache.i
+data/wpf-notifyicon/NotifyIconWpf/BalloonIcon.cs.i
+data/F4ToPokeys/FalconLightConsumer.cs.i
+data/F4ToPokeys/FalconGaugeDigit.cs.i
+data/wpf-notifyicon/Sample Project/Tutorials/02 - ToolTips/UserControlToolTipWindow.xaml.cs.i
+data/wpf-notifyicon/Sample Project/Properties/Resources.resx.i
+data/pololu-usb-sdk/Maestro/Usc/Usc.xml.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Release/NotifyIconWpf.csproj.GenerateResource.Cache.i
+data/wpf-notifyicon/Sample Project/Main.xaml.cs.i
+data/wpf-notifyicon/Sample Project/Commands/ShowSampleWindowCommand.cs.i
+data/lightningstools/SimplifiedCommon/Win32/NativeMethods.cs.i
+data/wpf-notifyicon/Sample Project/Commands/HideSampleWindowCommand.cs.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Debug/Hardcodet.Wpf.TaskbarNotification.dll.i
+data/F4ToPokeys/bin/Release/Usc.pdb.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Release/NotifyIconWpf.csprojResolveAssemblyReference.cache.i
+data/F4ToPokeys/light_off.xaml.i
+data/F4ToPokeys/Translations/Main.resx.i
+data/lightningstools/F4SharedMem/Properties/AssemblyInfo.cs.i
+data/lightningstools/F4SharedMem/Headers/DED_PFL_LineOfText.cs.i
+data/F4ToPokeys/bin/Release/F4ToPokeys.exe.i
+data/pololu-usb-sdk/POLOLU LICENSE.txt.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Debug/NotifyIconWpf.csproj.FileListAbsolute.txt.i
+data/F4ToPokeys/bin/Debug/PoKeysDevice_DLL.xml.i
+data/wpf-notifyicon/NotifyIconWpf/TaskbarIcon.cs.i
+data/lightningstools/F4SharedMem/Headers/BMS4FlightData.cs.i
+data/lightningstools/F4SharedMem/Headers/OSBData.cs.i
+data/F4ToPokeys/bin/Release/F4SharedMem.dll-3602fa86.i
+data/F4ToPokeys/erreur.xaml.i
+data/F4ToPokeys/DebugUtils.cs.i
+data/F4ToPokeys/MainWindow.xaml.cs.i
+data/F4ToPokeys/SevenSegmentDigitControlDesignData.xaml.i
+data/lightningstools/SimplifiedCommon/obj/Release/DesignTimeResolveAssemblyReferences.cache.i
+data/.hgtags.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Release/DesignTimeResolveAssemblyReferences.cache.i
+data/F4ToPokeys/light_on.xaml.i
+data/wpf-notifyicon/Sample Project/Showcase/FancyPopup.xaml.cs.i
+data/F4ToPokeys/ConfigurationDialogDesignData.xaml.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Release/TempPE/Properties.Resources.Designer.cs.dll.i
+data/lightningstools/F4SharedMem/obj/x86/Release/F4SharedMem.csproj.CoreCompileInputs.cache.i
+data/lightningstools/F4SharedMem/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache.i
+data/lightningstools/SimplifiedCommon/SimplifiedCommon.csproj.i
+data/lightningstools/F4SharedMem/obj/x86/Release/F4SharedMem.csprojResolveAssemblyReference.cache.i
+data/F4ToPokeys/Translations/Main.Designer.cs.i
+data/lightningstools/F4SharedMem/Headers/LightBits2.cs.i
+data/wpf-notifyicon/NotifyIconWpf/bin/Release/Hardcodet.Wpf.TaskbarNotification.dll.i
+data/lightningstools/F4SharedMem/Writer.cs.i
+data/F4ToPokeys/bin/Release/Usc.xml.i
+data/wpf-notifyicon/Sample Project/Tutorials/02 - ToolTips/SimpleUserControl.xaml.cs.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Release/NotifyIconWpf.csproj.CoreCompileInputs.cache.i
+data/F4ToPokeys/bin/Release/F4ToPokeys.pdb.i
+data/F4ToPokeys/bin/Release/F4ToPokeys.pdb.d
+data/pololu-usb-sdk/Maestro/Usc/Usc.pdb.i
+data/wpf-notifyicon/WindowsFormsSample/Properties/Settings.settings.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/IconDataMembers.cs.i
+data/pololu-usb-sdk/Maestro/Sequencer/Sequencer.pdb.i
+data/wpf-notifyicon/Sample Project/Showcase/NotifyIconResources.xaml.i
+data/wpf-notifyicon/Sample Project/Images/Preferences.png.i
+data/lightningstools/F4SharedMem/Reader.cs.i
+data/wpf-notifyicon/NotifyIconWpf/PopupActivationMode.cs.i
+data/wpf-notifyicon/NotifyIconWpf/Properties/AssemblyInfo.cs.i
+data/lightningstools/F4SharedMem/Headers/TacanBits.cs.i
+data/F4ToPokeys/MatrixLedOutput.cs.i
+data/wpf-notifyicon/Sample Project/App.xaml.cs.i
+data/F4ToPokeys/MainWindow.xaml.i
+data/pololu-usb-sdk/Maestro/Sequencer/Sequencer.xml.i
+data/lightningstools/F4SharedMem/obj/x86/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs.i
+data/License.txt.i
+data/F4ToPokeys/bin/Debug/fr/F4ToPokeys.resources.dll.i
+data/F4ToPokeys/SevenSegmentDigitSegment.cs.i
+data/wpf-notifyicon/Sample Project/Images/Info.png.i
+data/wpf-notifyicon/Sample Project/Icons/NetDrives.ico.i
+data/F4ToPokeys/PololuMaestro.cs.i
+data/F4ToPokeys/bin/Debug/UsbWrapper.dll.i
+data/wpf-notifyicon/NotifyIconWpf/NotifyIconWpf.csproj.i
+data/PoKeysDevice/PoKeysDevice_DLL.XML.i
+data/wpf-notifyicon/Sample Project/Tutorials/02 - ToolTips/InlineToolTipWindow.xaml.cs.i
+data/wpf-notifyicon/Changelog.txt.i
+data/lightningstools/F4SharedMem/obj/x86/Release/DesignTimeResolveAssemblyReferencesInput.cache.i
+data/lightningstools/SimplifiedCommon/obj/Release/SimplifiedCommon.csprojResolveAssemblyReference.cache.i
+data/F4ToPokeys/ConfigurationDialog.xaml.cs.i
+data/lightningstools/F4SharedMem/F4SharedMem.csproj.i
+data/lightningstools/F4SharedMem/obj/x86/Release/F4SharedMem.csproj.FileListAbsolute.txt.i
+data/lightningstools/F4SharedMem/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs.i
+data/wpf-notifyicon/Sample Project/Images/Add.png.i
+data/wpf-notifyicon/Sample Project/Tutorials/04 - ContextMenus/InlineContextMenuWindow.xaml.i
+data/F4ToPokeys/FalconConnector.cs.i
+data/F4ToPokeys/bin/Debug/F4ToPokeys.exe.config.i
+data/F4ToPokeys/bin/Release/CrashLog.txt.i
+data/F4ToPokeys/bin/Release/F4ToPokeys.exe.config.i
+data/wpf-notifyicon/WindowsFormsSample/Form1.resx.i
+data/F4ToPokeys/bin/Release/F4SharedMem.pdb.i
+data/F4ToPokeys/SevenSegmentDigitControl.xaml.i
+data/wpf-notifyicon/Sample Project/Showcase/FancyBalloon.xaml.i
+data/wpf-notifyicon/WindowsFormsSample/Program.cs.i
+data/wpf-notifyicon/NotifyIconWpf/TaskbarIcon.Declarations.cs.i
+data/lightningstools/F4SharedMem/Headers/LightBits.cs.i
+data/wpf-notifyicon/NotifyIconWpf/bin/Debug/Hardcodet.Wpf.TaskbarNotification.pdb.i
+data/pololu-usb-sdk/Maestro/Usc/Usc.dll.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Debug/Hardcodet.Wpf.TaskbarNotification.Properties.Resources.resources.i
+data/lightningstools/F4SharedMem/obj/x86/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Release/Hardcodet.Wpf.TaskbarNotification.g.resources.i
+data/wpf-notifyicon/WindowsFormsSample/FancyPopup.xaml.cs.i
+data/PoKeysDevice/PoKeysDevice_DLL.dll.i
+data/wpf-notifyicon/Sample Project/Tutorials/03 - Popups/InlinePopupWindow.xaml.cs.i
+data/lightningstools/F4SharedMem/obj/x86/Debug/F4SharedMem.csprojResolveAssemblyReference.cache.i
+data/F4ToPokeys/FalconGauge.cs.i
+data/lightningstools/F4SharedMem/Headers/FlyStates.cs.i
+data/lightningstools/F4SharedMem/Sn.key.snk.i
+data/lightningstools/SimplifiedCommon/obj/Debug/SimplifiedCommon.csproj.FileListAbsolute.txt.i
+data/F4ToPokeys/bin/Release/UsbWrapper.dll.i
+data/lightningstools/SimplifiedCommon/Properties/AssemblyInfo.cs.i
+data/lightningstools/F4SharedMem/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs.i
+data/F4ToPokeys/Properties/Resources.Designer.cs.i
+data/pololu-usb-sdk/UsbWrapper_Windows/UsbWrapper.dll.i
+data/wpf-notifyicon/WindowsFormsSample/Properties/Resources.Designer.cs.i
+data/wpf-notifyicon/NotifyIconWpf/DefaultTrayIcon.ico.i
+data/F4ToPokeys/bin/Debug/SimplifiedCommon.pdb.i
+data/lightningstools/F4SharedMem/F4SharedMem.sln.i
+data/wpf-notifyicon/Sample Project/Tutorials/01 - Declaration/NotifyIconResourceDictionary.xaml.i
+data/F4ToPokeys/bin/Debug/F4SharedMem.dll.i
+data/wpf-notifyicon/WindowsFormsSample/Form1.cs.i
+data/lightningstools/F4SharedMem/Headers/BlinkBits.cs.i
+data/F4ToPokeys/PoExtBusOutput.cs.i
+data/F4ToPokeys/bin/Release/fr/F4ToPokeys.resources.dll.i
+data/lightningstools/F4SharedMem/bin/x86/Debug/F4SharedMem.dll.i
+data/lightningstools/F4SharedMem/Headers/Callsign_LineOfText.cs.i
+data/F4ToPokeys/NullToVisibilityConverter.cs.i
+data/pololu-usb-sdk/Maestro/Sequencer/Sequencer.dll.i
+data/lightningstools/F4SharedMem/obj/x86/Debug/F4SharedMem.dll.i
+data/F4ToPokeys/App.xaml.cs.i
+data/F4ToPokeys/bin/Release/F4ToPokeys.xml.i
+data/wpf-notifyicon/WindowsFormsSample/Properties/AssemblyInfo.cs.i
+data/F4ToPokeys/Properties/Settings.Designer.cs.i
+data/wpf-notifyicon/Sample Project/Showcase/FancyToolTip.xaml.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/BalloonFlags.cs.i
+data/lightningstools/SimplifiedCommon/obj/Release/SimplifiedCommon.csproj.CoreCompileInputs.cache.i
+data/F4ToPokeys/bin/Release/F4ToPokeys.exe.d
+data/wpf-notifyicon/NotifyIconWpf/obj/Debug/NotifyIconWpf.csproj.GenerateResource.Cache.i
+data/lightningstools/SimplifiedCommon/obj/Debug/SimplifiedCommon.dll.i
+data/lightningstools/F4SharedMem/SharedMemHeaders.cs.i
+data/wpf-notifyicon/Sample Project/Icons/Bulb.ico.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Release/Hardcodet.Wpf.TaskbarNotification.pdb.i
+data/wpf-notifyicon/Sample Project/Showcase/FancyToolTip.xaml.cs.i
+data/F4ToPokeys/PoKeysEnumerator.cs.i
+data/pololu-usb-sdk/UsbWrapper_Windows/UsbWrapper.xml.i
+data/F4ToPokeys/bin/Debug/Hardcodet.Wpf.TaskbarNotification.pdb.i
+data/wpf-notifyicon/WindowsFormsSample/Images/Preferences.png.i
+data/F4ToPokeys/bin/Release/PoKeysDevice_DLL.dll-eb22171e.i
+data/F4ToPokeys/PoKeys.cs.i
+data/F4ToPokeys/bin/Debug/Usc.dll.i
+data/wpf-notifyicon/Sample Project/Tutorials/08 - DataBinding/DataBoundToolTipWindow.xaml.i
+data/wpf-notifyicon/Sample Project/Showcase/ShowcaseWindow.xaml.i
+data/F4ToPokeys/RelayCommand.cs.i
+data/F4ToPokeys/bin/Release/Hardcodet.Wpf.TaskbarNotification.dll-ab5cf7c2.i
+data/lightningstools/SimplifiedCommon/bin/Debug/SimplifiedCommon.pdb.i
+data/lightningstools/F4SharedMem/obj/x86/Release/F4SharedMem.dll.i
+data/F4ToPokeys/SelectorHelper.cs.i
+data/F4ToPokeys/bin/Debug/F4SharedMem.pdb.i
+data/lightningstools/F4SharedMem/obj/x86/Debug/F4SharedMem.csproj.FileListAbsolute.txt.i
+data/pololu-usb-sdk/README.txt.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Release/Hardcodet.Wpf.TaskbarNotification.dll.i
+data/lightningstools/F4SharedMem/bin/x86/Release/F4SharedMem.dll.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Debug/NotifyIconWpf.csprojResolveAssemblyReference.cache.i
+data/wpf-notifyicon/Sample Project/Tutorials/03 - Popups/InlinePopupWindow.xaml.i
+data/lightningstools/F4SharedMem/Headers/RadioClientStatus.cs.i
+data/F4ToPokeys/bin/Release/Usc.dll.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Release/NotifyIconWpf.csproj.FileListAbsolute.txt.i
+data/lightningstools/SimplifiedCommon/bin/Debug/SimplifiedCommon.dll.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/WindowClass.cs.i
+data/wpf-notifyicon/NotifyIconWpf/Properties/Resources.Designer.cs.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Debug/DesignTimeResolveAssemblyReferences.cache.i
+data/wpf-notifyicon/Sample Project/Icons/Computers.ico.i
+data/lightningstools/SimplifiedCommon/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache.i
+data/wpf-notifyicon/NotifyIconWpf/bin/Release/Hardcodet.Wpf.TaskbarNotification.pdb.i
+data/lightningstools/SimplifiedCommon/obj/Release/SimplifiedCommon.csproj.FileListAbsolute.txt.i
+data/F4ToPokeys/light_on.design.i
+data/lightningstools/F4SharedMem/Headers/IntellivibeData.cs.i
+data/F4ToPokeys/SevenSegmentDigitIndexConverter.cs.i
+data/.hgignore.i
+data/F4ToPokeys/SevenSegmentDigit.cs.i
+data/F4ToPokeys/MatrixLed.cs.i
+data/F4ToPokeys/bin/Debug/Usc.pdb.i
+data/F4ToPokeys/bin/Release/UsbWrapper.xml.i
+data/wpf-notifyicon/Sample Project/Properties/AssemblyInfo.cs.i
+data/wpf-notifyicon/Sample Project/Tutorials/01 - Declaration/SimpleWindowWithNotifyIcon.xaml.i
+data/lightningstools/SimplifiedCommon/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache.i
+data/lightningstools/F4SharedMem/Headers/OSBLabel.cs.i
+data/F4ToPokeys.sln.i
+data/lightningstools/F4SharedMem/Readme.txt.i
+data/F4ToPokeys/PoExtBus.cs.i
+data/lightningstools/F4SharedMem/Headers/TacanSources.cs.i
+data/wpf-notifyicon/Sample Project/Showcase/WelcomeBalloon.xaml.i
+data/F4ToPokeys/bin/Release/PoKeysDevice_DLL.xml.i
+data/wpf-notifyicon/Sample Project/App.xaml.i
+data/lightningstools/F4SharedMem/obj/Debug/F4SharedMem.csproj.CoreCompileInputs.cache.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Debug/Hardcodet.Wpf.TaskbarNotification.pdb.i
+data/F4ToPokeys/bin/Release/PoKeysDevice_DLL.dll.i
+data/F4ToPokeys/bin/Debug/F4ToPokeys.xml.i
+data/lightningstools/F4SharedMem/FlightData.cs.i
+data/lightningstools/F4SharedMem/obj/x86/Debug/F4SharedMem.pdb.i
+data/lightningstools/SimplifiedCommon/bin/Release/SimplifiedCommon.dll.i
+data/wpf-notifyicon/Sample Project/Tutorials/06 - Commands/CommandWindow.xaml.i
+data/wpf-notifyicon/WindowsFormsSample/FancyPopup.xaml.i
+data/lightningstools/F4SharedMem/Headers/CmdsModes.cs.i
+data/wpf-notifyicon/Sample Project/Images/Remove.png.i
+data/wpf-notifyicon/NotifyIconWpf/RoutedEventHelper.cs.i
+data/wpf-notifyicon/Sample Project/Tutorials/06 - Commands/CommandWindow.xaml.cs.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/WindowMessageSink.cs.i
+data/wpf-notifyicon/NotifyIconWpf/Properties/Resources.resx.i
+data/lightningstools/F4SharedMem/bin/x86/Release/F4SharedMem.pdb.i
+data/wpf-notifyicon/NotifyIconWpf/bin/Debug/Hardcodet.Wpf.TaskbarNotification.dll.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/NotifyIconData.cs.i
+data/F4ToPokeys/SevenSegmentDigitControl.xaml.cs.i
+data/wpf-notifyicon/Sample Project/Showcase/FancyBalloon.xaml.cs.i
+data/F4ToPokeys/F4ToPokeys.ico.i
+data/Setup/F4ToPokeys.iss.i
+data/F4ToPokeys/bin/Release/F4ToPokeys.exe-08769058.i
+data/wpf-notifyicon/Sample Project/Properties/Settings.Designer.cs.i
+data/F4ToPokeys/SevenSegmentDigitFillConverter.cs.i
+data/F4ToPokeys/bin/Release/SimplifiedCommon.dll-d4552551.i
+data/F4ToPokeys/bin/Debug/UsbWrapper.xml.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll.i
+data/wpf-notifyicon/Sample Project/Tutorials/08 - DataBinding/DataBoundToolTipWindow.xaml.cs.i
+data/F4ToPokeys/bin/Debug/CrashLog.txt.i
+data/wpf-notifyicon/Sample Project/Tutorials/06 - Commands/ShowMessageCommand.cs.i
+data/lightningstools/SimplifiedCommon/obj/Release/SimplifiedCommon.pdb.i
+data/lightningstools/F4SharedMem/obj/x86/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/TrayInfo.cs.i
+data/F4ToPokeys/BindableObject.cs.i
+data/lightningstools/F4SharedMem/Headers/NavModes.cs.i
+data/F4ToPokeys/bin/Debug/Hardcodet.Wpf.TaskbarNotification.dll.i
+data/.vs/F4ToPokeys/v15/Server/sqlite3/storage.ide.i
+data/lightningstools/F4SharedMem/Headers/SwitchStates.cs.i
+data/F4ToPokeys/bin/Release/F4SharedMem.dll.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache.i
+data/wpf-notifyicon/WindowsFormsSample/Properties/Resources.resx.i
+data/F4ToPokeys/DigitalOutput.cs.i
+data/wpf-notifyicon/Sample Project/Tutorials/07 - Events/EventVisualizerWindow.xaml.i
+data/wpf-notifyicon/WindowsFormsSample/Icon/Led.ico.i
+data/.vs/F4ToPokeys/v15/Server/sqlite3/storage.ide.d
+data/lightningstools/F4SharedMem/bin/x86/Debug/F4SharedMem.pdb.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Debug/NotifyIconWpf.csproj.CoreCompileInputs.cache.i
+data/F4ToPokeys/Properties/Settings.settings.i
+data/F4ToPokeys/bin/Debug/SimplifiedCommon.dll.i
+data/wpf-notifyicon/Sample Project/Properties/Settings.settings.i
+data/F4ToPokeys/bin/Debug/F4ToPokeys.pdb.i
+data/F4ToPokeys/App.xaml.i
+data/pololu-usb-sdk/Maestro/Bytecode/Bytecode.dll.i
+data/F4ToPokeys/bin/Debug/F4ToPokeys.pdb.d
+data/wpf-notifyicon/Sample Project/Showcase/WelcomeBalloon.xaml.cs.i
+data/F4ToPokeys/F4ToPokeys.csproj.i
+data/F4ToPokeys/light_off.design.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/NotifyIconVersion.cs.i
+data/lightningstools/F4SharedMem/obj/x86/Release/F4SharedMem.pdb.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/NotifyCommand.cs.i
+data/wpf-notifyicon/Sample Project/Icons/Error.ico.i
+data/lightningstools/SimplifiedCommon/obj/Debug/SimplifiedCommon.csproj.CoreCompileInputs.cache.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/WinApi.cs.i
+data/wpf-notifyicon/Sample Project/Sample Project.csproj.i
+data/wpf-notifyicon/Sample Project/Properties/Resources.Designer.cs.i
+data/wpf-notifyicon/Sample Project/Showcase/FancyPopup.xaml.i
+data/lightningstools/F4SharedMem/obj/x86/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs.i
+data/F4ToPokeys/app.config.i
+data/F4ToPokeys/bin/Release/Hardcodet.Wpf.TaskbarNotification.pdb.i
+data/wpf-notifyicon/NotifyIconWpf/Interop/Point.cs.i
+data/wpf-notifyicon/Sample Project/Tutorials/01 - Declaration/SimpleWindowWithNotifyIcon.xaml.cs.i
+data/lightningstools/SimplifiedCommon/obj/Release/SimplifiedCommon.dll.i
+data/wpf-notifyicon/Sample Project/Tutorials/02 - ToolTips/InlineToolTipWindow.xaml.i
+data/lightningstools/F4SharedMem/Headers/AltBits.cs.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Debug/Hardcodet.Wpf.TaskbarNotification.g.resources.i
+data/lightningstools/F4SharedMem/obj/x86/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs.i
+data/wpf-notifyicon/NotifyIconWpf/Util.cs.i
+data/F4ToPokeys/SevenSegmentMatrixLedConfig.cs.i
+data/F4ToPokeys/FalconGaugeFormat.cs.i
+data/lightningstools/F4SharedMem/Headers/PowerBits.cs.i
+data/lightningstools/F4SharedMem/NativeMethods.cs.i
+data/F4ToPokeys/FalconLight.cs.i
+data/wpf-notifyicon/NotifyIconWpf/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache.i
+data/F4ToPokeys/bin/Debug/Usc.xml.i
+data/wpf-notifyicon/Sample Project/Showcase/ShowcaseWindow.xaml.cs.i
+data/wpf-notifyicon/Sample Project/Tutorials/05 - Balloons/BalloonSampleWindow.xaml.cs.i
